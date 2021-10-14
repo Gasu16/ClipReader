@@ -13,3 +13,7 @@ Clipreader aims to access the content of these two clipboards on X11 and return 
 ### ./clipreader
 
 ![](clipreader.gif)
+
+----------
+## References
+https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html
