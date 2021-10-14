@@ -11,3 +11,5 @@ Clipreader aims to access the content of these two clipboards on X11 and return 
 
 ## To run
 ### ./clipreader
+
+![](clipreader.gif)
